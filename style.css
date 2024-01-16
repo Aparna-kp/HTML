@@ -3,5 +3,39 @@
         font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     }
     body{
+        background-color:burlywood;
+        border-color: black;
+        border-width: 2px;
+        border-style:double;
+        margin: 3px; 
+    }
+    .para1{
         background-color: blueviolet;
+        padding: 30px 30px 30px 100px;
+        border-color: black 2px double;
+        margin: 0;
+    }
+    .para2{
+        background-color:brown;
+        padding: 30px;
+        border-color: black;
+        border-width: 2px;
+        border-style:double;
+        margin: 20px;
+        margin-top: 30px;
+        margin-left: 300px;
+        padding-left: 40px;
+    }
+     
+    .image{
+        height: 300px;
+        width: 300px;
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        padding: 3px;
+        background-color: crimson;
+        border-color: black;
+        border-width: 2px;
+        border-style:double;
     }
