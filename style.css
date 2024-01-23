@@ -14,17 +14,20 @@
         padding: 30px 30px 30px 100px;
         border-color: black 2px double;
         margin: 0;
+        background-image: url(cloud.jpeg);
     }
     .para2{
         background-color:brown;
         padding: 30px;
         border-color: black;
         border-width: 2px;
-        border-style:double;
+        border-style:dashed;
         margin: 20px;
         margin-top: 30px;
         margin-left: 300px;
         padding-left: 40px;
+        text-align: center;
+        
     }
      
     .image{
@@ -38,4 +41,14 @@
         border-color: black;
         border-width: 2px;
         border-style:double;
+        border-radius: 10px;
+    }
+    a:link{
+        color:blue;
+    }
+    a:visited{
+        color: brown;
+    }
+    a:hover{
+        color: darkgreen;
     }
